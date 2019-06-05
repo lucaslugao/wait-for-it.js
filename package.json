@@ -1,0 +1,27 @@
+{
+  "name": "wait-for-it.sh",
+  "version": "1.0.0",
+  "description": "Wrapper around wait-for-it.sh",
+  "author": "Lucas Lugao",
+  "license": "MIT",
+  "homepage": "https://github.com:lucaslugao/wait-for-it.sh#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslugao/wait-for-it.sh"
+  },
+  "keywords": [
+    "wait-for-it"
+  ],
+  "files": [
+    "bin/",
+    "license",
+    "readme.md"
+  ],
+  "main": "index.js",
+  "bin": {
+    "wait-for-it": "bin/wait-for-it"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
