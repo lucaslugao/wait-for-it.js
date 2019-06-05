@@ -21,3 +21,4 @@ wait-for-it host:port [-s] [-t timeout] [-- command args]
 ## License
 
 [MIT](LICENSE) © Lucas Lugao
+
